@@ -1,2 +1,1 @@
-# Perl_Log_Analyzer
-Project completed as capstone for "The Complete Perl Programming Course" on Udemy. 
+This is to be read so that the project is explained
